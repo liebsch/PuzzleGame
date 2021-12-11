@@ -6,4 +6,4 @@ Your task is to rotate an scale the pieces and align them into the given palaceh
 
 Have fun!
 
- ![grafik](https://user-images.githubusercontent.com/60744604/145656567-32735e51-acdb-4520-b81f-b47b1b4468a9.png)
+![grafik](https://user-images.githubusercontent.com/60744604/145656607-d23f7a52-fcf5-40a8-8985-ccdfebb6d428.png)
